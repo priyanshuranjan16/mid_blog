@@ -13,7 +13,7 @@ const app = new Hono<{
 }>();
 
 app.get('/', (c) => {
-  return c.text('API is working. Use /api/v1/signup to register.');
+  return c.text('API is working perfectly. Use /api/v1/signup to register.');
 });
 
 
