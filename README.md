@@ -1,1 +1,1 @@
-backend for medium-blog.
+backend for medium_blog.
